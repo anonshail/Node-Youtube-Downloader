@@ -1,0 +1,22 @@
+{
+  "name": "my_node_downloader",
+  "version": "1.0.0",
+  "description": "A youtube music downloader written in node, hopefully is faster than pafy lmao idk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anonshail/Node-Youtube-Downloader.git"
+  },
+  "author": "Shail K Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anonshail/Node-Youtube-Downloader/issues"
+  },
+  "homepage": "https://github.com/anonshail/Node-Youtube-Downloader#readme",
+  "dependencies": {
+    "ytdl-core": "^0.29.3"
+  }
+}
