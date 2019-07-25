@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/anonshail/Node-Youtube-Downloader#readme",
   "dependencies": {
+    "yt-search": "^0.4.1",
     "ytdl-core": "^0.29.3"
   }
 }
