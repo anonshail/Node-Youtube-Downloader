@@ -1,2 +1,2 @@
 # Node-Youtube-Downloader
-it's a workign i guess, idk man
+it's a working i guess, idk man
